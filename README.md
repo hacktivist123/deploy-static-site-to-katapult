@@ -4,4 +4,4 @@ This is a simple script written in Go that deploys a static site to [Katapult Ob
 
 >[!NOTE]
 > - Make sure to create a .env file to hold your `KATAPULT_ENDPOINT`, `KATAPULT_ACCESS_KEY_ID`, `KATAPULT_SECRET_KEY` & `BUCKET_NAME`.
-> - Make sure to enable your bucket to serve static sites when creating a new bucket. 
+> - Make sure to enable your bucket to serve static sites when creating a new bucket in the Katapult console. 
